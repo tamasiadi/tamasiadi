@@ -34,21 +34,15 @@ Perfection-driven approach, continuous improvement, attention to detail in every
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=tamasiadi&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=tamasiadi&show_icons=true&theme=radical&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tamasiadi&layout=compact&theme=radical)
-
----
-
-## 🔥 GitHub Streak
-
-![Streak](https://streak-stats.demolab.com?user=tamasiadi&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tamasiadi&layout=compact&theme=radical&hide_border=true)
 
 ---
 
-## 🎧 Now Playing
+## 🎧 Music
 
-![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=11152719299&cover_image=true&theme=novatorem)
+[![Spotify](https://img.shields.io/badge/Spotify-Open_Profile-1DB954?logo=spotify)](https://open.spotify.com/user/11152719299)
 
 ---
 
