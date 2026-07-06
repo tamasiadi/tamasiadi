@@ -32,30 +32,9 @@ Perfection-driven approach, continuous improvement, attention to detail in every
 
 ---
 
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=tamasiadi&show_icons=true&theme=radical&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tamasiadi&layout=compact&theme=radical&hide_border=true)
-
----
-
-## 🎧 Music
-
-[![Spotify](https://img.shields.io/badge/Spotify-Open_Profile-1DB954?logo=spotify)](https://open.spotify.com/user/11152719299)
-
----
-
 ## 📸 Photography Portfolio
 
 🌐 Website: https://tamasiphoto.hu  
 📷 Instagram: https://instagram.com/tamasiphoto
 
----
 
-## 📌 Featured Projects
-
-- 💻 Python / Dev projects
-- 🎬 Video editing projects
-- 🎧 Music-related tools or projects
-- 📸 Photography portfolio repo
