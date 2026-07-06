@@ -1,6 +1,6 @@
 🇭🇺 / 🇬🇧
 
-# 👋 Szia, én itt vagyok
+# 👋 Szia
 
 Szoftverfejlesztést tanulok, miközben több kreatív és technikai területen is aktívan dolgozom. A munkáimban a maximalizmus, a részletek és a letisztultság egyaránt fontos.
 
@@ -16,7 +16,7 @@ Maximalista szemlélet, folyamatos fejlődés, és figyelek arra, hogy minden mu
 
 ---
 
-# 👋 Hi, I'm here
+# 👋 Hi
 
 I'm currently studying software development while actively working across multiple technical and creative fields. I care about perfection, detail, and clean execution.
 
